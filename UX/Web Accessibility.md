@@ -1,0 +1,1 @@
+Make sure a low or no vision, low or no audio, low motor function, slow mover, or other disabled person can use the app.

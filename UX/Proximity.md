@@ -1,0 +1,1 @@
+Objects placed near each other will be percieved as on related group.
