@@ -1,6 +1,6 @@
 ---
 created: 2024-05-28T03:30:54-06:00
-modified: 2024-05-28T03:41:24-06:00
+modified: 2024-05-28T03:43:15-06:00
 ---
 
 # ZBeyer
@@ -21,3 +21,7 @@ ZBeyer
 	--gold: #a85;
 
 ```
+
+Colors derrived from profile image: 
+
+![Image](./a5602bcecf4c24ddbcd31d8f4bdbef81.jpg)
