@@ -1,6 +1,6 @@
 ---
 created: 2024-05-28T04:00:45-06:00
-modified: 2024-05-29T08:21:26-06:00
+modified: 2024-05-29T08:22:54-06:00
 ---
 
 # Terms
@@ -28,7 +28,7 @@ modified: 2024-05-29T08:21:26-06:00
 ## Notes
 -   Most criterion requires AA standards
 
--   Authors of Web pages that cannot conform due to content outside of the author's control may consider a [Statement of Partial Conformance](https://www.w3.org/WAI/WCAG21/Understanding/conformance#conformance-partial).
+-   Authors of Web pages that cannot conform due to content outside of the author's control may consider a [Statement of Partial Conformance](https://www.w3.org/WAI/WCAG21/Understanding/conformance#conformance-partial). Example UGC (User Generated Content).
 
 ## Feature Conformance Options
 
