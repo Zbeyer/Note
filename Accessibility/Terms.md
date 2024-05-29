@@ -23,3 +23,12 @@ modified: 2024-05-28T04:11:55-06:00
 -   Most criterion requires AA standards
 
 -   Authors of Web pages that cannot conform due to content outside of the author's control may consider a [Statement of Partial Conformance](https://www.w3.org/WAI/WCAG21/Understanding/conformance#conformance-partial).
+
+## Feature Conformance Options
+
+-   **Supports**: The feature fully meets the accessibility standard without any exceptions.
+-   **Partial Support**: This can be used when only parts of the feature meet the accessibility standards.
+-   **Supported with Exceptions**: Use this when the feature is mostly supported but there are some exceptions.
+-   **Not Supported**: This indicates that the feature is not supported and does not meet the specified success criteria.
+-   **Does Not Support**: This is similar to “Not Supported” and is used to clearly state that the feature does not conform to the standards.
+-   **Not Applicable**: The accessibility standard does not apply to the feature.
