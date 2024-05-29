@@ -1,9 +1,7 @@
 ---
 created: 2024-05-28T04:00:45-06:00
-modified: 2024-05-29T08:19:00-06:00
+modified: 2024-05-29T08:20:38-06:00
 ---
-
-# Terms
 
 # Terms
 
@@ -18,6 +16,8 @@ modified: 2024-05-29T08:19:00-06:00
 **ACR**. Accessibility Conformance Report.
 
 **WCAG**. Web Content Accessibility Guidelines.
+
+## Conformance Levels
 
 **Level A**: This is the **minimum level** of conformance. [To meet this level, all Level A Success Criteria must be satisfied](https://www.w3.org/WAI/WCAG21/Understanding/conformance)[1](https://www.w3.org/WAI/WCAG21/Understanding/conformance).
 
