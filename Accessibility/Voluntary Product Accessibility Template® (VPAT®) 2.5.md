@@ -57,10 +57,9 @@ The VPAT is a template used to document a product's conformance with accessibili
 
 The Information Technology Industry Council (ITI) provides the VPAT. Use of the template and service mark does not require membership in ITI.
 
-**
-**
 
-# Essential Requirements and Best Practices for Information & Communications Technology (ICT) Vendors
+
+## Essential Requirements and Best Practices for Information & Communications Technology (ICT) Vendors
 
 This section provides guidance for reporting product conformance for major accessibility standards and guidelines using the VPAT® to produce the Accessibility Conformance Report.  Deviating from these guidelines precludes vendors from referencing the template by name and/or the VPAT acronym.
 
@@ -178,7 +177,7 @@ Note: When filling in the WCAG tables, a response may use 'Supports' where one m
 
 1.  In     the Section 508 tables, when subsections of criteria do not apply to the     product, the section may be summarized or removed as long as an     explanation is provided explaining why a criterion does not apply. Another     alternative is to leave the table and add a summary why the section does not     apply. For example, in Chapter 5 the criteria in 502 and 503 will not     apply to a web only application, thus those sections can be removed with a     summary in the notes for the chapter, or a row in the table.
 
-## Best Practices for Authors
+### Best Practices for Authors
 
 ITI suggests that authors adopt the following best practices when using the VPAT® to create an Accessibility Conformance Report. 
 
@@ -318,30 +317,25 @@ For each of the standards, the criteria are listed by chapter in a table.  The s
 
  
 
- 
+### [Company] Accessibility Conformance Report
 
-**
-**
-
-# [Company] Accessibility Conformance Report
-
-# International Edition
+## International Edition
 
 **(Based on VPAT**® **Version 2.5)**
 
-## Name of Product/Version: 
+### Name of Product/Version:
 
-## Report Date: 
+### Report Date:
 
-## Product Description: 
+### Product Description:
 
-## Contact Information: 
+### Contact Information:
 
-## Notes: 
+### Notes:
 
-## Evaluation Methods Used: 
+### Evaluation Methods Used:
 
-## Applicable Standards/Guidelines
+### Applicable Standards/Guidelines
 
 This report covers the degree of conformance for the following accessibility standard/guidelines:
 
