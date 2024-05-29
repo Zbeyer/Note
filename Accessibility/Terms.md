@@ -1,14 +1,19 @@
 ---
 created: 2024-05-28T04:00:45-06:00
-modified: 2024-05-29T08:16:09-06:00
+modified: 2024-05-29T08:19:00-06:00
 ---
+
+# Terms
 
 # Terms
 
 **VPAT**. Voluntary Product Accessibility Template.
 
-- US 508
-- EN 301 549
+## INT: International VPAT
+- WCAG
+- US: Section 508
+- EU/UK: EN 301 549
+
 
 **ACR**. Accessibility Conformance Report.
 
